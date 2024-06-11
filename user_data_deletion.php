@@ -7,7 +7,7 @@ $user_id = $data['user_id'];
 
 // Start data deletion
 
-$status_url = 'https://www.<your_website>.com/deletion?id=abc123'; // URL to track the deletion
+$status_url = 'https://munezeromicha.github.io/MY-APP-BACKEND/?id=abc123'; // URL to track the deletion
 $confirmation_code = 'abc123'; // unique code for the deletion request
 
 $data = array(
